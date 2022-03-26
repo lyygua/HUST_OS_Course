@@ -1,0 +1,3 @@
+- 编译cir.cpp sum.cpp time.cpp三文件用直接使用make命令进行编译
+- 编译exp1-2.cpp（是主文件），g++ (filename) -o (name)即可
+- 运行./name即可

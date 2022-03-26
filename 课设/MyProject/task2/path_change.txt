@@ -1,0 +1,3 @@
+gedit ./arch/x86/entry/syscalls/syscall_64.tbl 添加调用号
+gedit include/linux/syscall.h 添加函数声明
+gedit kernel/sys.c 添加函数体
